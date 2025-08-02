@@ -1,13 +1,13 @@
-### Hello there!
+sup
 ## Who I am
-Just a guy who has a passion for gamedev and blender.
-I speak German 🇩🇪 and English 🇺🇲
-## What I do
-I:
-- develop games using the Godot engine
-- write server-side Minecraft mods using Polymer
-- do other unrelated side project
+Someone with a passion for Gamedev and Blender.
 
+## What I do
+- currently working on a game in Godot
+- write server-side Minecraft mods using Polymer
+- do other unrelated but sometimes useful projects
+
+<!--
 <details>
   <summary>Honorable mentions</summary>
 
@@ -18,6 +18,7 @@ I:
   | 2 | [cool content mod for my Minecraft server](https://github.com/Kirillathome/kahmod-server) |
   | 3 | [vocab trainer for latin](https://kirillathome.uucode.com/latein) |
 </details>
+-->
 <!--
 **Kirillathome/Kirillathome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
